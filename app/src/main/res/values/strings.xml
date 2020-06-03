@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RadiaButton</string>
+    <string name="yes"> yes </string>
+    <string name="maybe">May be</string>
+    <string name="attending">Attending?</string>
+    <string name="no">NO</string>
+</resources>
